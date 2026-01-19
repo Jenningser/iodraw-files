@@ -46,13 +46,23 @@
           <mxGeometry x="160" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UfH0ZwcV08767ple8Shr-1" value="顶级结构" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UfH0ZwcV08767ple8Shr-5" value="pertpy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UfH0ZwcV08767ple8Shr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UfH0ZwcV08767ple8Shr-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="UfH0ZwcV08767ple8Shr-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="230" as="sourcePoint" />
+            <mxPoint x="580" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="230" />
+              <mxPoint x="530" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
